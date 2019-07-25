@@ -12,5 +12,5 @@ for p in `find ./* -maxdepth 1 -name "Test*.java"`;
     done
 
 
-echo "| 本目录通过[.tree.sh](./.tree.sh)生成" >> ${filename}
+echo "\n\n\n<!-- 本目录通过[.tree.sh](./.tree.sh)生成 -->" >> ${filename}
 echo "ok!"

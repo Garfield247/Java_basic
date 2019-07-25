@@ -53,4 +53,7 @@
     古典问题：数兔子
 - [Test27.java](./Test27.java)
     分解质因数
-| 本目录通过[.tree.sh](./.tree.sh)生成
+
+
+
+<!-- 本目录通过[.tree.sh](./.tree.sh)生成 -->
