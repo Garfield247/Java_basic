@@ -51,3 +51,5 @@
     编程求出所有三位的水仙花数。
 - [Test26.java](./Test26.java)
    
+- [Test27.java](./Test27.java)
+    分解质因数
