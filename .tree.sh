@@ -8,7 +8,7 @@ for p in `find ./* -maxdepth 1 -name "Test*.java"`;
     do
         # echo $p
         index=`cat ${p}|sed -n '3p'`
-        echo "- [${p}](${p})\n   ${index}" >>${filename}
+        echo "- [${p}](${p})\n   ${index:2}" >>${filename}
     done
 
 echo "ok!"
