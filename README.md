@@ -50,6 +50,6 @@
 - [Test25.java](./Test25.java)
     编程求出所有三位的水仙花数。
 - [Test26.java](./Test26.java)
-   
+    古典问题：数兔子
 - [Test27.java](./Test27.java)
     分解质因数
