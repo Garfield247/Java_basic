@@ -55,6 +55,8 @@
     分解质因数
 - [Test28.java](./Test28.java)
     字符串的内存
+- [Test29.java](./Test29.java)
+    String常用的方法
 
 
 
