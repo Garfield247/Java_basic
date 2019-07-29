@@ -1,6 +1,6 @@
 /**
  * Test32
- * 字符串引用
+ * 字符串传递
  */
 public class Test32 {
 

@@ -62,7 +62,7 @@
 - [Test31.java](./Test31.java)
      引用传递
 - [Test32.java](./Test32.java)
-    字符串引用
+    字符串传递
 
 
 
