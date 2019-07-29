@@ -53,6 +53,8 @@
     古典问题：数兔子
 - [Test27.java](./Test27.java)
     分解质因数
+- [Test28.java](./Test28.java)
+    字符串的内存
 
 
 
