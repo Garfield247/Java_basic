@@ -71,6 +71,8 @@
     static关键字
 - [Test36.java](./Test36.java)
     对象数组
+- [Test37.java](./Test37.java)
+    foreach循环、可变参数、代码块
 
 
 
