@@ -69,6 +69,8 @@
     对象的一对一关系`
 - [Test35.java](./Test35.java)
     static关键字
+- [Test36.java](./Test36.java)
+    对象数组
 
 
 
