@@ -67,6 +67,8 @@
     字符串传递2
 - [Test34.java](./Test34.java)
     对象的一对一关系`
+- [Test35.java](./Test35.java)
+    static关键字
 
 
 
