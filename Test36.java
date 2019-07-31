@@ -37,7 +37,7 @@ class HeroManager{
             //扩充的算法（plan1：两倍，plan2：一半，向上取整）
             System.out.println("当前数组长度已满，长度为"+heros.length+",进行扩充");
             int newLen = heros.length*3/2+1;
-            heros = Arrays.copyOf(heros, newLen);
+            heros = Arrays.copyOf(heros, newLen);//将原来数组内的内容copy到一个新的长度的数组
             System.out.println("已进行扩充，长度为" + heros.length);
         }
         heros[count] = hero;
@@ -66,7 +66,7 @@ class HeroManager{
         for (int i = 0; i < count; i++) {
             if(heros[i].getId()==id){
                 System.out.println("删除"+ heros[i].getName());
-                for (int j = i; j < count-1; j++) {
+                for (int j = i; j < count-1; j++) {//向前覆盖，实现删除切null不在中间
                     heros[j] = heros[j+1];
                 }
                 heros[count-1] = null;
