@@ -75,6 +75,8 @@
     foreach循环、可变参数、代码块
 - [Test38.java](./Test38.java)
     单例设置模式
+- [Test39.java](./Test39.java)
+    类的继承
 
 
 
