@@ -7,8 +7,10 @@ import java.util.Scanner;
 
 public class Test18 {
 
+    private static Scanner scan;
+
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+        scan = new Scanner(System.in);
         System.out.println("依次输入三个正整数");
         int a = scan.nextInt();
         int b = scan.nextInt();

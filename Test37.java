@@ -16,6 +16,7 @@ public class Test37 {
     public static void main(String[] args) {
         String[] names = {"ming","gang","hua","wei","lili"};
         Test37 t = new Test37();
+        System.out.println(t);
         for (String name:names){
             System.out.println(name);
         }

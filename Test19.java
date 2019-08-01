@@ -7,8 +7,10 @@ import java.util.Scanner;
 
 public class Test19 {
 
+    private static Scanner scan;
+
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+        scan = new Scanner(System.in);
         System.out.println("year");
         int year = scan.nextInt();
         System.out.println("month");

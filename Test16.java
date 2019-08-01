@@ -9,9 +9,11 @@ import java.util.Scanner;
 
 public class Test16 {
 
+    private static Scanner scan;
+
     public static void main(String[] args) {
         Random rand = new Random();
-        Scanner scan  = new Scanner(System.in);
+        scan = new Scanner(System.in);
 
         int[] redBall = new int[33];
 

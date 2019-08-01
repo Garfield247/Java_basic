@@ -9,8 +9,10 @@ import java.util.Scanner;
 
 public class Test26 {
 
+    private static Scanner scan;
+
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+        scan = new Scanner(System.in);
         int month = scan.nextInt();
         if (month>2){
             int b = (month-1)/2;

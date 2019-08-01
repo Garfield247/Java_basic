@@ -7,8 +7,10 @@ import java.util.Scanner;
 
 public class Test20 {
 
+    private static Scanner scan;
+
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+        scan = new Scanner(System.in);
         System.out.println("输入任意整数");
         int num = scan.nextInt();
         //plan1-使用StringBuilder 的reverse 直接进行反转

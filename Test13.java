@@ -9,6 +9,8 @@ import java.util.Scanner;
 
 public class Test13 {
 
+    private static Scanner scan;
+
     private static int find_max(int[] numlist) {
         int res = numlist[0];
         for (int i = 0; i < numlist.length; i++) {
@@ -30,7 +32,7 @@ public class Test13 {
     }
 
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+        scan = new Scanner(System.in);
         System.out.println("要比较的个数");
         int len = scan.nextInt();
         int[] numlist = new int[len];
