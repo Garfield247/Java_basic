@@ -73,6 +73,8 @@
     对象数组
 - [Test37.java](./Test37.java)
     foreach循环、可变参数、代码块
+- [Test38.java](./Test38.java)
+    单例设置模式
 
 
 
