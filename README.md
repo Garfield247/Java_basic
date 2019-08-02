@@ -81,6 +81,8 @@
     1.化妆品类
 - [Test41.java](./Test41.java)
     抽象类
+- [Test42.java](./Test42.java)
+    接口
 
 
 
