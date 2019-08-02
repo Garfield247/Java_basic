@@ -77,6 +77,10 @@
     单例设置模式
 - [Test39.java](./Test39.java)
     类的继承
+- [Test40.java](./Test40.java)
+    1.化妆品类
+- [Test41.java](./Test41.java)
+    抽象类
 
 
 
